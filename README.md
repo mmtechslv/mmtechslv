@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Farid Musa aka. mmtechslv
 
-### My Git Stats
+### My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmtechslv&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ### My top language stats!

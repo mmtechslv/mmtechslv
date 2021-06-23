@@ -5,6 +5,3 @@
 
 ### My top language stats!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmtechslv&hide=scss,css,shell,html)](https://github.com/anuraghazra/github-readme-stats)
-
-### My Wakatime stats!
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmtechslv)](https://github.com/anuraghazra/github-readme-stats)

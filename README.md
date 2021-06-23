@@ -2,4 +2,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmtechslv&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmtechslv&?hide=SCSS,CSS,Shell,HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmtechslv&?hide=scss,css,shell,html)](https://github.com/anuraghazra/github-readme-stats)
